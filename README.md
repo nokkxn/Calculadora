@@ -83,7 +83,7 @@ Quando o usuário clica no trilho, a classe `dark` é adicionada/removida do `<b
 1. Baixe a pasta completa (`index.html`, `style.css`, `script.js`);
 2. Abra o arquivo `index.html` no seu navegador;
 3. Pronto! A calculadora funcionará localmente.
-(Ou acesse o site! nokkxn.github.io/Calculadora)
+[Ou acesse o site aqui!](http://nokkxn.github.io/Calculadora)
 ---
 
 ## 🚀 Melhorias futuras
