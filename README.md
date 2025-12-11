@@ -1,5 +1,8 @@
 # Calculator
 
+### 🔗 Live Demo  
+https://nokkxn.github.io/calculator-app/
+
 A simple and responsive calculator built with HTML, CSS, and JavaScript.  
 It performs basic math operations and was created to practice DOM manipulation, event handling, and clean UI layout.
 
